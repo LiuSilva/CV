@@ -1,8 +1,12 @@
 ## Luciano G. Silva
 
-[About](#about) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Links](#links)
+[About](#about) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
+
+Junior Developer starting my professional career. I am now looking for a position where I can make a difference using my skills while keep growing, and become a better developer than I was yesterday.
 
 ## About
+
+I am a Brazilian guy with a big will to make difference in the world. I like very much to learn new stuff and programming for many hours. I always try to do my best in everything I do and to help others when I can do it. My goal is to become better and better and not be stagnant. I want to use my abilities and grow while I am doing new things.
 
 ## Education
 
@@ -15,9 +19,11 @@ Diamantina, Brazil <br>
 
 ## Experience
 
-**Android Developer, [OutroTurismo](http://outroturismo.com.br/)** *May 2016 - August 2017*
+**Android Developer, [OutroTurismo](http://outroturismo.com.br/)** *May 2016 - August 2017* <br>
+Developed the android app for the company with several technologies like Android Native, RESTful Web Service and PHP.
 
-**Web Developer, [Next Step](http://nextstepsi.com.br/)** *March 2016 - August 2017*
+**Web Developer, [Next Step](http://nextstepsi.com.br/)** *March 2016 - August 2017* <br>
+Working with the first team of the junior company for designing, implementing and deploying websites for clients of the company using technologies like HTML, PHP, JavaScript (jQuery) and tools for remote working with the team.
 
 ## Skills
 
@@ -29,6 +35,10 @@ Android SDK, Django, RESTful Web Services, Git, Linux
 
 #### Languages
 Portuguese, English
+
+## Interests
+
+Technology, Programming, Combinatorial Optimization, Heuristics, Metaheuristics, Matheuristics, Network Security, Brazilian Viola, Traveling, Photography and Reading
 
 ## Links
 
