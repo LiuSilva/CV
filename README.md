@@ -19,8 +19,12 @@ Diamantina, Brazil <br>
 
 ## Complementary Education
 
-**[Git and GitHub - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *October 2017* <br>
+**[Python for Android, iOS, Windows, Linux, Mac - Udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/learn/v4/overview)** *August 2017 - Current*
+Developing with Python and Kivy for professional applications for desktop and mobile.
 
+
+**[Git and GitHub - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *October 2017* <br>
+Introduction to Version Control with Git and GitHub.
 
 ## Experience
 
