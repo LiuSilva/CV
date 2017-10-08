@@ -1,6 +1,6 @@
 ## Luciano G. Silva
 
-[About](#about) | [Education](#education) | [Complementary Education](#complementary) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
+[About](#about) | [Education](#education) | [Complementary Education](#complementary-education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
 
 Junior Developer starting my professional career. I am now looking for a position where I can make a difference using my skills while keep growing, and become a better developer than I was yesterday.
 
