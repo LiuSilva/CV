@@ -1,6 +1,6 @@
 ## Luciano G. Silva
 
-[About](#about) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
+[About](#about) | [Education](#education) | [Complementary Education](#complementary) | [Experience](#experience) | [Skills](#skills) | [Interests](#interests) | [Links](#links)
 
 Junior Developer starting my professional career. I am now looking for a position where I can make a difference using my skills while keep growing, and become a better developer than I was yesterday.
 
@@ -16,6 +16,11 @@ Diamantina, Brazil <br>
 > Bachelor's Thesis: Algorithms for the Unrelated Parallel Machine Scheduling Problem with Sequence Dependent Setup Times (in portuguese). <br>
 > Advisor: Prof. Marcelo Ferreira Rego, MSc. <br>
 > GPA: 8.31/10 <br>
+
+## Complementary Education
+
+**[Git and GitHub - Udemy](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/overview)** *October 2017* <br>
+
 
 ## Experience
 
