@@ -30,6 +30,9 @@ Introduction to Version Control with Git and GitHub.
 
 ## Experience
 
+**Backend Developer, [Studio Sol](https://www.studiosol.com.br/)** *December 2017 - Current* <br>
+Developing using Go as main languange at the team of [Letras.mus.br](https://www.letras.mus.br/) project.
+
 **Android Developer, [OutroTurismo](http://outroturismo.com.br/)** *May 2016 - August 2017* <br>
 Developed the android app for the company with several technologies like Android Native, RESTful Web Service and PHP.
 
@@ -39,10 +42,10 @@ Working with the first team of the junior company for designing, implementing an
 ## Skills
 
 #### Programming Languages
-Java, C/C++, Python, JavaScript, PHP
+Java, C/C++, Python, JavaScript, PHP, Go
 
 #### Technologies
-Android SDK, Django, RESTful Web Services, Git, Linux
+Android SDK, Django, RESTful Web Services, Git, Linux, Pongo
 
 #### Languages
 Portuguese, English
